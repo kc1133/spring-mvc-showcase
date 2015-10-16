@@ -10,7 +10,7 @@
 <body>
 </c:if>
 	<div id="fileuploadContent">
-		<h2>File Upload</h2>
+		<h2>File Upload</h2><!-- changed -->
 		<p>
 			See the <code>org.springframework.samples.mvc.fileupload</code> package for the @Controller code	
 		</p>

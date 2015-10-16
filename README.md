@@ -5,7 +5,7 @@ After reviewing this showcase, you should have a good understanding of what Spri
 Includes project code along with a supporting slideshow and screen cast.
 
 In this showcase you'll see the following in action:
-
+*test
 * The simplest possible @Controller
 * Mapping Requests
 * Obtaining Request Data
